@@ -1,0 +1,50 @@
+*{
+    background-image:url(https://cdn.wallpapersafari.com/76/15/XxnobK.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+.caja_padre{
+    display: flex;
+    flex-flow: row wrap;
+    background-image: url(https://external-preview.redd.it/SK-lIg8_engc4EC4MndVO3ScFkXm3xFb9VYVuuH8QzM.jpg?auto=webp&s=35587832c16aa4d86ae2df65306edbd0705cecc0);
+    padding: 10px;
+    border: 2px solid blue;
+    justify-content: space-between;
+}
+.caja_padre div{
+    color: aqua;
+    background-image:url(https://www.xtrafondos.com/wallpapers/heath-ledger-como-el-guason-6175.jpg) ;
+    width: 29.7 ;
+    order: 5;
+    margin: 30px;
+    width: 200px;
+    text-align: center;
+    border: 6px solid purple;
+    font-size: 50px;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 7, 7);
+}
+table{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    background-color: blue;
+}
+th{
+    background-color: blue;
+    color: aliceblue;
+}
+td{
+    color: white;
+}
+
